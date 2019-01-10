@@ -7,17 +7,16 @@
 }
 
 h1,h2,h3,h4,h5,h6,p{
-    color: aquamarine;
+    color: black;
     text-align: center;
-    background-color: brown;
 }
 
 #liz{
     font-size: 10px;
-    color: aliceblue;
+    color: black;
     font-weight: 100;
     font-style: normal;
-    background-color: aquamarine;
+    background-color: lavender;
     
 }
 div#logo{
@@ -29,7 +28,7 @@ div#logo{
 }
 
 #banner{
-    background-color: lavender;
+    background-color: lavenderblush;
     color: black;
     font-size: 20px;
 }
