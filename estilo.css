@@ -14,5 +14,7 @@ font-style: normal;
 div#logo{
     display: flex;
     flex-wrap: wrap;
+    align-self: auto;
+    
     
 }
