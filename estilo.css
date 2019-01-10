@@ -13,7 +13,16 @@ h1,h2,h3,h4,h5,h6,p{
 }
 
 #header{
-    background-color: aquamarine;
-    color: antiquewhite;
-    font-size: 20px;
+    font-size: 10px;
+    color: aliceblue;
+    font-weight: 100;
+font-style: normal;
+    
+}
+div#logo{
+    display: flex;
+    flex-wrap: wrap;
+    align-self: auto;
+    
+    
 }
