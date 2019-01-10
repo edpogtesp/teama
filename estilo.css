@@ -1,5 +1,27 @@
+
+*{
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+    list-style: none;
+}
+
 h1,h2,h3,h4,h5,h6,p{
-    color:wheat;
+    color: aquamarine;
     text-align: center;
     background-color: brown;
 }
+
+#header{
+    font-size: 10px;
+    color: aliceblue;
+    font-weight: 100;
+font-style: normal;
+    
+}
+div#logo{
+    display: flex;
+    flex-wrap: wrap;
+    align-self: auto;
+    }
+    
